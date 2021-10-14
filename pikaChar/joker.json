@@ -1,0 +1,27 @@
+{
+  "general": {
+    "name": "Joker",
+    "color": "#d84141",
+    "character": "<:Joker:827433449718808607>",
+    "notes": "When joker uses down gun, hide under plats and wait for an opportunity to hit him. he can almost immediately act out of it with side b and can cancel it with jump for mix ups so pay close attention to what they like to do after whiffing. Depending on your character you want to be aggressive while Arsene is out and get a much chip damage in to lower down Arsene. If you play a campy character run and try and get chip damage. Along with that force joker offstage, he is pretty weak offstage and doesn't have a whole lot of mix ups. Shield when Joker is offstage and you're focused on ledge trapping. He will almost always eiha/eigaon the ledge."
+  },
+  "pikachu": {
+    "stages": {
+      "ban": "<:ps2:886775407356039189> <:bf:886775009010413608> <:sbf:886775208583774209>",
+      "keep": "<:fd:886775033391894579> <:town:886775475203096576> <:sv:886775123540062228>",
+      "neutral": "<:kalos:886775584494084146> <:ys:886775185519312918>"
+    },
+    "mu": "+2 for Pikachu",
+    "upair": {
+      "works": "Yes",
+      "percent": "36% - 48%"
+    },
+    "kill": {
+      "percent": "60% - 74%",
+      "di": {
+        "out": "Double Jump Forward Air",
+        "in": "Turn around, Jump, Up air (Strong), Fall back fast fall, Thunder"
+      }
+    }
+  }
+}
