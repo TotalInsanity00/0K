@@ -1,0 +1,38 @@
+const ms = require('ms');
+const puppeteer = require('puppeteer');
+const fs = require("fs");
+
+module.exports = {
+    name: '',
+    aliases: [''],
+    description: "This is a cb command!",
+    async execute(client, message, args, Discord) {
+        try {
+
+
+
+        } catch (err) {
+            let msgLink = "https://discord.com/channels/" + message.guildId + "/" + message.channelId + "/" + message.id;
+            client.channels.cache.get('875748868019605514').send(`<@!164555929252134912> [${err}](${msgLink})`);
+        }
+    }
+}
+
+
+const exampleEmbed = new MessageEmbed()
+	.setColor('#0099ff')
+	.setTitle('Some title')
+	.setURL('https://discord.js.org/')
+	.setAuthor('Some name', 'https://i.imgur.com/AfFp7pu.png', 'https://discord.js.org')
+	.setDescription('Some description here')
+	.setThumbnail('https://i.imgur.com/AfFp7pu.png')
+	.addFields(
+		{ name: 'Regular field title', value: 'Some value here' },
+		{ name: '\u200B', value: '\u200B' },
+		{ name: 'Inline field title', value: 'Some value here', inline: true },
+		{ name: 'Inline field title', value: 'Some value here', inline: true },
+	)
+	.addField('Inline field title', 'Some value here', true)
+	.setImage('https://i.imgur.com/AfFp7pu.png')
+	.setTimestamp()
+	.setFooter('Some footer text here', 'https://i.imgur.com/AfFp7pu.png');
