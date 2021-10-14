@@ -1,0 +1,73 @@
+{
+  "drink": 91,
+  "eat": 87,
+  "pills": 28,
+  "parkour": {
+    "blackout": 58,
+    "nothing": 36
+  },
+  "oomfie": {
+    "blackout": 18,
+    "nothing": 11,
+    "kami": 3,
+    "kick": 0
+  },
+  "hostage": {
+    "run": {
+      "nothing": 18,
+      "blackout": 0
+    },
+    "stay": {
+      "nothing": 49,
+      "blackout": 39
+    }
+  },
+  "slushi": {
+    "nothing": 43,
+    "blackout": 24
+  },
+  "trust": {
+    "fall": {
+      "blackout": 16,
+      "nothing": 19
+    },
+    "hang": {
+      "blackout": 20,
+      "nothing": 13
+    }
+  },
+  "beach": {
+    "boyfriend": {
+      "blackout": 10,
+      "nothing": 7
+    },
+    "kami": 0,
+    "nothing": 13
+  },
+  "sleep": {
+    "blackout": 20,
+    "nothing": 45
+  },
+  "drive": {
+    "nothing": 24,
+    "blackout": 12,
+    "revived": 0
+  },
+  "dog": {
+    "nothing": 5,
+    "blackout": 32,
+    "flower": 13
+  },
+  "shroom": {
+    "eat": {
+      "blackout": 3,
+      "nothing": 3,
+      "shroom": 4
+    },
+    "pass": {
+      "blackout": 7,
+      "nothing": 5
+    }
+  },
+  "use": 785
+}

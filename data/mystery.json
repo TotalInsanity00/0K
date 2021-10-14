@@ -1,0 +1,92 @@
+{
+  "drink": {
+    "tangy": "You drink a glass of tangy juice, you feel hazy... your vision is blurry"
+  },
+  "eat": {
+    "hot": "You see a plate of pizza rolls! They're a little hot, but nothing you can't power through!"
+  },
+  "pills": {
+    "p1": "You see a bottle of pills... you take a pill... ",
+    "p2": "The flavor is amazing! You take the whole bottle of pills! You feel super energized!"
+  },
+  "parkour": {
+    "p1": "You're running from building to building. As you reach the edge you realize that theres a large gap! You go for the jump!",
+    "p2g": "You're practicially flying through the air! You made it safely across the gap!",
+    "p2b": "You are in the air and you suddenly start falling faster, you hit a window that breaks, your neck and head are stuck in glass... You died from loss of blood."
+  },
+  "oomfie": {
+    "hi": "Hey there oomfie! Hope you're having a good day! Love you oomfie!",
+    "hiImg": "https://cdn.discordapp.com/attachments/875651413886238730/881687237924905020/hey-hey-oomfie.gif",
+    "ohno": "Oh no oomfie! You drop kicked those children! You're in timeout now!",
+    "ohnoImg": "https://cdn.discordapp.com/attachments/875651413886238730/881687819905552474/oomfie-twitter.gif",
+    "bye": "Oomfie! I told you no more choccy milk till breakfast! Now leave!",
+    "byeImg": "https://media.discordapp.net/attachments/875651413886238730/881688373943762994/no-oomfie-oomfie.gif",
+    "goodjob": "Goodjob oomfie! I knew you could do it!",
+    "goodjobImg": "https://media.discordapp.net/attachments/875651413886238730/881687142135373844/go-off-oomfie-oomf.gif"
+  },
+  "hostage": {
+    "info": "You've been taken as a hostage in an abandonded mall! As you despreatly look for an escape, you see a working elevator! You notice the guard's back is turned.",
+    "death": {
+      "run": "You take your chance and run to the elevator. It works! You ride to the ground floor. Unfortunately someone beats you there. You get shot and die quickly.",
+      "stay": "You decide that the elevator is not the best bet. You wait it out. They decided it's your time. You're shot dead in the heart."
+    },
+    "safe": {
+      "run": "You take your chance and run to the elevator. It works! You ride to the ground floor. Nobody was there and you run to freedom!",
+      "stay": "You decide that the elevator is not the best bet. You wait it out. You wait patiently and soon the cops arrive. You're safe and free to go."
+    }
+  },
+  "slushi": {
+    "base": "You're having a bad day. You decide to go to a 7/11. Each store the same as the rest, you decide to get a slushie.",
+    "safe": "That sweet frozen rush. You drink the whole thing in one sitting. It was great and you leave feeling a little better afterwards.",
+    "bad": "That sweet frozen rush. You drink the whole thing in one sitting. Your skull gets hit with and shattered from the cold. Your brain was frozen temporarily after swimming in the ice."
+  },
+  "trust": {
+    "base": "You're hanging on a cliff. Your grip slipping. Your friend yells 'Trust me!'",
+    "death": {
+      "a1": "You decide to trust your friend. You let go. You fall on the ground. You break your spine upon impact.",
+      "no": "You decide to not trust your friend. Your grip slips and you fall to your death."
+    },
+    "safe": {
+      "a1": "You decide to trust your friend. You let go. You fall into a lake. You swim to safety. ",
+      "no": " You decide to not trust your friend. You gain enough strength to pull yourself back up to safety."
+    }
+  },
+  "beach": {
+    "base": "You're walking along the beach. The water laps at your feet. A pretty girl walks by. You gain enough courage to talk to her",
+    "boyfriend": {
+      "bad": "She responds. But her boyfriend shows back up. He doesn't particularly want you to talk to her. He punches you square in the throat.",
+      "neutral": "She responds. But her boyfriend shows back up. He likes you and you all go to hangout."
+    },
+    "none": "She responds. She says that she likes you but isn't interested in love yet. You both go about your days.",
+    "good": "She responds. It's like almost love at first sight. She jumps into your arms and gives you a big hug. <3"
+  },
+  "sleep": {
+    "base": "You're sleepy and decide to read a book. The more you read the heavier your eyes feel.",
+    "dead": "You fall asleep. The slumber deep and peaceful. A figure greets you in your dreams. They ask you to stay. You stay for what felt like years. You never wake up from this endless dream. Good Night.",
+    "alive": "You fall asleep. The slumber deep and peaceful. A figure greets you in your dreams. They ask you to stay. You stay for what felt like years. Then they start to fade. You wake up and see that hours have passed. Good Morning."
+  },
+  "drive": {
+    "base": "You're assigned to drive someone special. Your assigned vehicle is a limousine. You're driving to pick up your customer and the road becomes slippery. You swerve and the car rolls of the road.",
+    "survived": "Everything blacks out. You wake up in a bright room. It's the hospital. You survived the crash.",
+    "death": "Everything blacks out. You wake up in a bright room. It feels unreal. You died in the crash.",
+    "revived": "Everything blacks out. You wake up in a bright room. It's your room. You've been revived."
+  },
+  "dog": {
+    "base": "You're on a walk in the park with your dog. You decide to play fetch with your dog. You toss the frisbee and it lands over the hill. ",
+    "returns": "Your dog runs to get it. He comes back with the frisbee in his mouth. You take it ready to toss again.",
+    "bird": "Your dog runs to get it. He comes back with a dead bird in his mouth. You just stand there dismayed and grossed out.",
+    "flower": "Your dog runs to get it. He comes back with a flower in his mouth. You take the flower confused and dazed."
+  },
+  "shrooms": {
+    "base": "You're lost in the woods with nothing to eat. You see a patch of mushrooms.",
+    "pass": {
+      "starve": "You decide against eating the mushrooms. You keep searching. You succumb to starvation.",
+      "rtc": "You decide against eating the mushrooms. You keep searching. You eventually find your way back to civilization, just in the nick of time."
+    },
+    "eat": {
+      "full": "You decide to eat some of the mushrooms. You eat them and feel nourished. You keep going.",
+      "poision": "You decide to eat some of the mushrooms. You eat them and start feeling nauseous. You die soon after.",
+      "shroom": "You decide to eat some of the mushrooms.You eat them and your head starts to hurt. You see crazy hallucinations."
+    }
+  }
+}

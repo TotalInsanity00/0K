@@ -1,0 +1,19 @@
+{
+  "Cb": {
+    "Date": "Thu Oct 14 2021 09:41:32",
+    "Twitch": "https://twitch.tv/insanityssbu",
+    "Room": "6"
+  },
+  "Lineup": "Minaho\nCottn\nLaroy\nSaph\nDamiko\nNoPause",
+  "info": {
+    "Type": "Ranked",
+    "Opp": "Blazing Irises",
+    "Day": "10/14",
+    "EST": "8:00 PM",
+    "CST": "7:00 PM",
+    "MST": "6:00 PM",
+    "PST": "5:00 PM",
+    "BST": "1:00 am",
+    "lineup": "main"
+  }
+}

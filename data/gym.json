@@ -1,0 +1,110 @@
+{
+  "frost": {
+    "Badge": "<:FrostsBadge:869699760372736080> ",
+    "NextGym": "Cabbage/Trip"
+  },
+  "poyo": {
+    "Badge": "<:PoyoBadge:878686296741134357>",
+    "NextGym": "Cabbage/Trip"
+  },
+  "ginko": {
+    "Badge": "No badge (DM Insanity) ",
+    "NextGym": "Cabbage/Trip"
+  },
+  "cabbage": {
+    "Badge": "<:CabbageBadge:869700018943189002>",
+    "NextGym": "Kira/Ravioli"
+  },
+  "trip": {
+    "Badge": "<:TripsBadge:870334123573645314>",
+    "NextGym": "Kira/Ravioli"
+  },
+  "kira": {
+    "Badge": "<:RequiemBadge:869700052216606802>",
+    "NextGym": "Ake/Khun"
+  },
+  "ravioli": {
+    "Badge": "No badge (DM Insanity) ",
+    "NextGym": "Ake/Khun"
+  },
+  "akemister": {
+    "Badge": "<:Akebadge:871531748415111288>",
+    "NextGym": "Sirlo/Prestodust"
+  },
+  "khun": {
+    "Badge": "<:RequiemBadge:869700052216606802>",
+    "NextGym": "Sirlo/Prestodust"
+  },
+  "sirlo": {
+    "Badge": "<:SirlosBadge:869700091341070336>",
+    "NextGym": "Tasty/JayJ"
+  },
+  "prestodust": {
+    "Badge": "<:PrestoDustBadge:870511314836021288>",
+    "NextGym": "Tasty/JayJ"
+  },
+  "tasty": {
+    "Badge": "<:TastysBadge:869700109233979432>",
+    "NextGym": "Minaho/Glades"
+  },
+  "jayj": {
+    "Badge": "No badge (DM Insanity) ",
+    "NextGym": "Minaho/Glades"
+  },
+  "minaho": {
+    "Badge": "<:Minahosbadge:869700119870726164>",
+    "NextGym": "Fantasy/Snivy"
+  },
+  "glades": {
+    "Badge": "<:GladesBadge:875801784529080380>",
+    "NextGym": "Fantasy/Snivy"
+  },
+  "fantasy": {
+    "Badge": "<:FantasyBadge:869700128020242492>",
+    "NextGym": "Elite 4: Dr. Watts"
+  },
+  "snivy": {
+    "Badge": "No badge (DM Insanity) ",
+    "NextGym": "Elite 4: Dr. Watts / TDPmaze"
+  },
+  "watts": {
+    "Badge": "Elite 4: Dr.Watts ",
+    "NextGym": "Elite 4: Toxic (Fish) / Tap"
+  },
+  "maze": {
+    "Badge": "Elite 4: TDPmaze ",
+    "NextGym": "Elite 4: Toxic (Fish) / Tap"
+  },
+  "toxic": {
+    "Badge": "Elite 4: Toxic (Fish) ",
+    "NextGym": "Elite 4: Defacaz / Total"
+  },
+  "tap": {
+    "Badge": "Elite 4: Tap ",
+    "NextGym": "Elite 4: Defacaz / Total"
+  },
+  "defacaz": {
+    "Badge": "Elite 4: defacaz ",
+    "NextGym": "Elite 4: JC / THEGAMEBOY "
+  },
+  "total": {
+    "Badge": "Elite 4: Total (Insanity) ",
+    "NextGym": "Elite 4: JC / THEGAMEBOY "
+  },
+  "jc": {
+    "Badge": "Elite 4: JC ",
+    "NextGym": "Elite 4: Champion"
+  },
+  "gameboy": {
+    "Badge": "Elite 4: THEGAMEBOY ",
+    "NextGym": "Elite 4: Champion"
+  },
+  "champ": {
+    "Badge": "Champion",
+    "NextGym": "None"
+  },
+  "certify": {
+    "Badge": "<:Certified:869713766772789258>",
+    "NextGym": "Frost"
+  }
+}

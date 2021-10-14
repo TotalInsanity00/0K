@@ -1,0 +1,25 @@
+{
+  "PlayerCard": {
+    "Badges": {
+      "ie": "Your 'player card' for example, you can get this by either pinging their name or using their USERID (~badges @Trainer Card Bot)"
+    },
+    "Give": {
+      "ie": "Used by Gymleaders to report sets, use the 'Badges' command before using this. (~give @Trainer Card Bot Frost 0-0 (If player has failed, add 'fail' after set count)"
+    },
+    "Leaders": {
+      "ie": "A list of Gym leaders and sub Gym leaders, as well as the elite 4 and the alts for them. (~leaders)"
+    },
+    "Request": {
+      "ie": "Request for a trainer card. Just do ~request and it will work!"
+    },
+    "Thank": {
+      "ie": "Thank Insantiy for his work on the bot! (~thank)"
+    },
+    "Help": {
+      "ie": "This is what you are using right now!"
+    },
+    "Card": {
+      "ie": "To update your player card! ~card (color, image, name) argument"
+    }
+  }
+}
